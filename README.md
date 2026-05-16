@@ -172,6 +172,7 @@ Open **http://localhost:8501** in your browser.
 - Lewis et al. (2020) — [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401)
 - Course: Prompt Engineering — Chanakya University, School of Engineering
 - Instructor: Mr. Deepak B
+- Student: Baire Gowda
 
 ---
 
