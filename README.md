@@ -150,9 +150,8 @@ Open **http://localhost:8501** in your browser.
 
 ## 📸 Screenshots
 
-> Add screenshots here after running the app.
+<img width="1869" height="918" alt="docMIND" src="https://github.com/user-attachments/assets/caf9d4b0-2bd3-491e-a4be-9dcd80c49fd1" />
 
----
 
 ## 🤖 Tech Stack
 
